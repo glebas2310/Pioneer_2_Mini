@@ -10,6 +10,7 @@ classification.py - python файл для запуска на дроне для
 flight.py - взлет дрона на 0.5 метра
 
 
+Инструменты
 
 Wi-Fi: 'PMINI2...'   Password: geoscan123
 
