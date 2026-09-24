@@ -20,7 +20,7 @@ SCP: scp C:/Users/AI/Downloads/file.py pioneermini@10.42.0.1:/home/pioneermini/w
 
 InterFace: .9999
 
-ImageViewer: .8889
+ImageViewer: .8889/stream
 
 Commands: cd ls rm mkdir nano python3 source venv/bin/activate
 
