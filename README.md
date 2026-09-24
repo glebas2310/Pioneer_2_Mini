@@ -9,10 +9,18 @@ classification.py - python файл для запуска на дроне для
 
 flight.py - взлет дрона на 0.5 метра
 
+
+
 Wi-Fi: 'PMINI2...'   Password: geoscan123
+
 SSH: ssh pioneermini@10.42.0.1    Password: geoscan123
+
 SCP: scp C:/Users/AI/Downloads/file.py pioneermini@10.42.0.1:/home/pioneermini/workspace/
+
 InterFace: .9999
+
 ImageViewer: .8889
+
 Commands: cd ls rm mkdir nano python3 source venv/bin/activate
+
 Sources: https://docs-beta.geoscan.ru/pioneer/ ; https://docs-beta.geoscan.ru/pioneer/ ; https://gitflic.ru/project/geoscan-llc/pioneer-rknn-example ; https://gitflic.ru/project/pioneer-team/pioneer-sdk2-example
